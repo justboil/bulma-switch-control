@@ -1,0 +1,14 @@
+@import "node_modules/bulma/sass/utilities/all";
+
+$speed-slow: 150ms !default;
+$speed-slower: 250ms !default;
+
+$switch-width-number: 2.75 !default;
+$switch-width: $switch-width-number * 1em !default;
+$switch-padding: 0.2em !default;
+$switch-outlined-padding: 0.1em !default;
+$switch-active-background-color: $primary !default;
+
+/* Box-shadow */
+$switch-has-shadows: 0 !default;
+$switch-knob-has-shadows: 0 !default;
