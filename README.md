@@ -55,7 +55,7 @@ You may just copy pre-compiled css file from the repository https://github.com/j
 ```html
 <!-- Bulma -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
-<!-- Bulma Responsive Tables -->
+<!-- Bulma Switch Control -->
 <link rel="stylesheet" href="%SOME-LOCAL-PATH%/bulma-switch-control/css/main.min.css">
 ```
 
