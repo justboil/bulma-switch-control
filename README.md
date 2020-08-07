@@ -44,7 +44,7 @@ Use with scss
 /* Bulma */
 @import "~bulma/bulma";
 
-/* Bulma Responsive Tables */
+/* Bulma Switch Control */
 @import "~bulma-switch-control";
 ```
 
