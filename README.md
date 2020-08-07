@@ -1,6 +1,6 @@
-# Bulma Custom Checkbox
+# Bulma Switch Control
 
-[![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://justboil.github.io/bulma-switch-control/)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.github.io/bulma-switch-control/)
+[![version](https://img.shields.io/npm/v/bulma-switch-control.svg)](https://justboil.github.io/bulma-switch-control/)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.github.io/bulma-switch-control/)
 
 [![Switch controls for Bulma CSS Framework](https://justboil.me/images/bulma-switch-control/repository-preview-hi-res.png?v=1.1)](https://justboil.github.io/bulma-switch-control/)
 
