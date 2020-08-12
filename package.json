@@ -1,18 +1,20 @@
 {
   "name": "bulma-switch-control",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Switch controls for Bulma CSS Framework",
   "homepage": "https://justboil.me/",
-  "main": "scss/main.scss",
+  "main": "bulma-switch-control.scss",
   "style": "css/main.min.css",
   "keywords": [
+    "scss",
     "sass",
     "bulma",
     "css",
     "form",
     "input",
-    "controls",
-    "checkbox"
+    "control",
+    "checkbox",
+    "switch"
   ],
   "scripts": {
     "build": "gulp",

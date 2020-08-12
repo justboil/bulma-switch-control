@@ -1,6 +1,6 @@
 # Bulma Switch Control
 
-[![version](https://img.shields.io/npm/v/bulma-switch-control.svg)](https://justboil.github.io/bulma-switch-control/)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.github.io/bulma-switch-control/)
+[![version](https://img.shields.io/npm/v/bulma-switch-control.svg)](https://www.npmjs.com/package/bulma-switch-control/)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.github.io/bulma-switch-control/)
 
 [![Switch controls for Bulma CSS Framework](https://justboil.me/images/bulma-switch-control/repository-preview-hi-res.png?v=1.1)](https://justboil.github.io/bulma-switch-control/)
 
@@ -42,15 +42,15 @@ Use with scss
 
 ```scss
 /* Bulma */
-@import "~bulma/bulma";
+@import "node_modules/bulma/bulma";
 
 /* Bulma Switch Control */
-@import "~bulma-switch-control";
+@import "node_modules/bulma-switch-control/bulma-switch-control";
 ```
 
 ### ... or use as CSS
 
-You may just copy pre-compiled css file from the repository https://github.com/justboil/bulma-switch-control/tree/master/css or node_modules `node_modules/bulma-switch-control/css` and use it in HTML
+You may just copy pre-compiled `main.css` or `main.min.css` file from the [repository](https://github.com/justboil/bulma-switch-control/tree/master/css) or from `node_modules/bulma-switch-control/css` folder and use it in HTML
 
 ```html
 <!-- Bulma -->
@@ -76,7 +76,7 @@ JustBoil's free items are limited to community support on GitHub.
 
 The issue list is reserved exclusively for bug reports and feature requests. That means we do not accept usage questions. If you open an issue that does not conform to the requirements, it will be closed.
 
-1. Make sure that you are using the latest version of the package
+1. Make sure you are using the latest version of the package
 2. Provide steps to reproduce
 3. Provide an expected behavior
 4. Describe what is actually happening 

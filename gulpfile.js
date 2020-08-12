@@ -15,7 +15,7 @@ function destDir ( isDemo ) {
 function processScssFn ( outputStyle, isDemo ) {
   const outName = outputStyle === 'compressed' ? 'main.min.css' : 'main.css'
 
-  return src('scss/main.scss')
+  return src('bulma-switch-control.scss')
     .pipe(sass({outputStyle}).on('error', sass.logError))
     .pipe(rename(outName))
     .pipe(dest(destDir(isDemo)))
