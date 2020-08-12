@@ -41,11 +41,11 @@ $ npm i bulma-switch-control --save
 Use with scss
 
 ```scss
-/* Bulma */
-@import "node_modules/bulma/bulma";
-
 /* Bulma Switch Control */
 @import "node_modules/bulma-switch-control/bulma-switch-control";
+
+/* Bulma */
+@import "node_modules/bulma/bulma";
 ```
 
 ### ... or use as CSS
