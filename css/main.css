@@ -7,6 +7,7 @@
   user-select: none;
 }
 
+/* Box-shadow */
 .switch {
   cursor: pointer;
   display: inline-flex;
@@ -192,16 +193,8 @@
   outline: none;
 }
 
-.switch.has-left-label {
-  flex-direction: row-reverse;
-}
-
-.switch.has-left-label .control-label {
-  padding-right: calc(0.75em - 1px);
-}
-
-.switch:not(.has-left-label) .control-label {
-  padding-left: calc(0.75em - 1px);
+.switch .control-label {
+  padding-left: 0.5em;
 }
 
 .switch:hover input[type=checkbox] + .check {
@@ -308,6 +301,7 @@
 .switch.is-outlined input[type=checkbox] + .check {
   background: transparent;
   border: 0.1rem solid #b5b5b5;
+  padding: 0.1em;
 }
 
 .switch.is-outlined input[type=checkbox] + .check.is-white-passive {
