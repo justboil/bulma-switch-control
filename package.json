@@ -1,8 +1,8 @@
 {
   "name": "bulma-switch-control",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Switch controls for Bulma CSS Framework",
-  "homepage": "https://justboil.me/",
+  "homepage": "https://justboil.github.io/bulma-checkbox/",
   "main": "bulma-switch-control.scss",
   "style": "css/main.min.css",
   "keywords": [
@@ -30,10 +30,10 @@
     "bulma": "^0.9.0"
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.2.3",
     "gulp": "^4.0.2",
     "gulp-rename": "^2.0.0",
-    "gulp-sass": "^4.1.0",
-    "node-sass": "^4.14.1"
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^7.0.1"
   }
 }
